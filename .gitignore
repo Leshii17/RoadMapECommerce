@@ -1,0 +1,36 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE-specific files
+.vs/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.pdb
+
+# Dependency directories
+node_modules/
+packages/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Other
+*.bak
+*.swp
+*.lock
